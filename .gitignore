@@ -2,8 +2,8 @@
 .DS_STORE
 
 #IDE files
-/.idea/workspace.xml
-/.idea/libraries
+.idea/workspace.xml
+.idea/libraries
 
 # Built application files
 *.apk
